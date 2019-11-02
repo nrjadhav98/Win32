@@ -1,0 +1,11 @@
+
+#include"MySplashScreen.h"
+MYICON ICON abc.ico
+MYBITMAP BITMAP Neha.bmp
+
+
+
+
+
+
+
